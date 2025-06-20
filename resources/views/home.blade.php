@@ -30,6 +30,7 @@
 <a href="relationship">Relationship</a>
 
 <br><br>
+<a href="fileupload">File Upload</a>
 <a href="mail">Mail</a>
 <a href="crud">CRUD</a>
 <a href="api">API</a>
