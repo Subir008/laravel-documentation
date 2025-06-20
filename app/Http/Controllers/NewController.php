@@ -41,7 +41,7 @@ class NewController extends Controller
             'email' => 'required | email'
         ]);
         return $request;
-    }
+    }   
 
     function customformvalidation(Request $request){
         $request->validate([
